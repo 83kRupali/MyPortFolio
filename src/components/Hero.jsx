@@ -52,7 +52,7 @@ const Hero = () => {
                 {/* Resume Download Button */}
                 
                 <a
-                  href="/src/assets/Resume.pdf"
+                  href="https://drive.google.com/file/d/1E2PPKJOXLaWf3Gr637WVPs9o6X_GrZuq/view?usp=drive_link"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 border border-purple-600 text-purple-600 px-5 py-3 rounded-xl font-medium hover:bg-purple-50 transition"
