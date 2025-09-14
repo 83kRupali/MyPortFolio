@@ -52,7 +52,7 @@ const Certifications = () => {
             <div className="bg-white rounded-xl shadow-md overflow-hidden transition hover:shadow-lg">
               <div className="aspect-[4/3] overflow-hidden">
                 <img
-                  src="/src/assets/software.jpg"
+                  src="https://res.cloudinary.com/dknz9umvs/image/upload/v1757839586/software_cw9nwl.jpg"
                   alt="Introduction to Software Engineering Certificate"
                   className="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
                 />
@@ -69,7 +69,7 @@ const Certifications = () => {
             <div className="bg-white rounded-xl shadow-md overflow-hidden transition hover:shadow-lg">
               <div className="aspect-[4/3] overflow-hidden">
                 <img
-                  src="/src/assets/backend.jpg"
+                  src="https://res.cloudinary.com/dknz9umvs/image/upload/v1757839587/backend_bmhwgc.jpg"
                   alt="Node.js & MongoDB Certificate"
                   className="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
                 />
