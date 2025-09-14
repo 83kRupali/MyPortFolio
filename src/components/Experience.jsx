@@ -92,7 +92,7 @@ const Experience = () => {
                 ].map((cert, index) => (
                   <li key={index}>
                     <a
-                      href={cert.file}
+                      href={https://drive.google.com/file/d/15X2l2zBhLOVpUJz32KP9ynHIqqL6q8Tb/view?usp=drive_link}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-purple-600 hover:underline flex items-center gap-2"
