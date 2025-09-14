@@ -88,11 +88,11 @@ const Experience = () => {
               </h4>
               <ul className="space-y-2">
                 {[
-                  { name: "Full-Stack Development Certificate", file: "src/assets/resume.pdf" },
+                  { name: "Full-Stack Development Certificate", file: "https://drive.google.com/file/d/15X2l2zBhLOVpUJz32KP9ynHIqqL6q8Tb/view?usp=drive_link" },
                 ].map((cert, index) => (
                   <li key={index}>
                     <a
-                      href={https://drive.google.com/file/d/15X2l2zBhLOVpUJz32KP9ynHIqqL6q8Tb/view?usp=drive_link}
+                      href={href.file}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-purple-600 hover:underline flex items-center gap-2"
