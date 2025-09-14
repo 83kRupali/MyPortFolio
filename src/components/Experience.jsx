@@ -92,7 +92,7 @@ const Experience = () => {
                 ].map((cert, index) => (
                   <li key={index}>
                     <a
-                      href={href.file}
+                      href={cert.file}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-purple-600 hover:underline flex items-center gap-2"
