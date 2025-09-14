@@ -96,7 +96,7 @@ const Hero = () => {
               <div className="relative">
                 <div className="w-80 h-80 rounded-full overflow-hidden shadow-lg border-4 border-purple-200">
                   <img
-                    src="/src/assets/profile.jpg"
+                    src="https://res.cloudinary.com/dknz9umvs/image/upload/v1757839585/profile_tr1fn9.jpg"
                     alt="Rupali Ramteke - Full-Stack Developer"
                     className="w-full h-full object-cover"
                   />
